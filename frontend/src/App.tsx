@@ -26,7 +26,7 @@ function App() {
 
     try {
       setLoading(true);
-      const res = await axios.post("http://127.0.0.1:8000/analyze", formData, {
+      const res = await axios.post("https://ai-resume-analyzer-7wh4.onrender.com/analyze", formData, {
         headers: { "Content-Type": "multipart/form-data" },
       });
       setResult(res.data);

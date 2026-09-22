@@ -1,9 +1,9 @@
-## AI RESUME ANALYZER
+# AI RESUME ANALYZER
 
 AI-powered tool that helps job seekers match their resumes against job descriptions.  
 Upload your resume (PDF/TXT) and paste a job description to instantly see your Match Score and Missing Keywords.
 
-# Features 
+## Features 
 
 Upload resume (PDF or TXT)
 - Paste full job description
@@ -12,7 +12,7 @@ Upload resume (PDF or TXT)
 - Clean UI with Material UI components
 - Full-stack integration (FastAPI + React)
 
-# Tech Stack Used
+## Tech Stack Used
 
 **Backend:**
 
@@ -29,7 +29,7 @@ Upload resume (PDF or TXT)
 - Vite (bundler)
 
 
-# Why this project 
+## Why this project 
 
 Applicant Tracking Systems (ATS) often filter candidates by keyword matching.  
 This project simulates that process, helping job seekers tailor their resumes for higher chances of being noticed.
